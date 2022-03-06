@@ -25,4 +25,3 @@ def bag_of_words(tokonized_sentence,words): #sentence tableau de string
     return bag
 
 
-print(str(bag_of_words(["amine","tarek","salah"],["salah","jamil","nasim"])))
